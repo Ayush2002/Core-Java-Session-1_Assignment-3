@@ -1,0 +1,19 @@
+
+public class Session1Assignment3 {
+	
+	public static void main(String s[]){
+		
+		int a;
+		int b = 3;
+		a = b;
+		
+		System.out.println(a);
+		
+		a = 2;
+		b = a;
+		
+		System.out.println(b);
+		
+	}
+
+}
